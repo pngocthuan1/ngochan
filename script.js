@@ -818,7 +818,7 @@ let galaxyAudio = null;
 
 function preloadGalaxyAudio() {
   const audioSources = [
-  "https://a128-z3.zmdcdn.me/1ee31865e77ffcd1d682f04b227fe531?authen=exp=1751194084~acl=/1ee31865e77ffcd1d682f04b227fe531*~hmac=7ae7e1be7414284a4e31beac5938f2f7",
+  "https://a320-z3.zmdcdn.me/d17d79105dfcbf67208389c9e8fc9c42?authen=exp=1751200062~acl=/d17d79105dfcbf67208389c9e8fc9c42*~hmac=a04c3acf1b98b0246e69f19a92c8afec"
   ];
 
   const randomIndex = Math.floor(Math.random() * audioSources.length);
